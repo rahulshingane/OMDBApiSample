@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OMDBDemo</string>
+    <string name="please_waite">Please Wait…</string>
+    <string name="msg_check_internet_connection">Please check your internet connection and try again.</string>
+    <string name="search">Search..</string>
+    <string name="director">Director:</string>
+    <string name="writer">Writer:</string>
+    <string name="actors">Actors:</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="score">Score</string>
+    <string name="reviews">Reviews</string>
+    <string name="popularity">Popularity</string>
+    <string name="enter_your_movie_name_to_search">Enter your movie name to search</string>
+
+</resources>

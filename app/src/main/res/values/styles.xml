@@ -1,0 +1,56 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowDisablePreview">true</item>
+
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="android:textColorHighlight">@color/colorPrimary</item>
+        <!--        <item name="android:statusBarColor">@android:color/transparent</item>-->
+        <item name="android:statusBarColor">@color/colorPrimary</item>
+    </style>
+
+
+    <style name="FullScreenDialogStyle" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+        <!-- Set this to true if you want Full Screen without status bar -->
+        <item name="android:windowFullscreen">false</item>
+
+        <item name="android:windowIsFloating">false</item>
+
+        <!-- This is important! Don't forget to set window background -->
+        <item name="android:windowBackground">@color/transparent</item>
+
+
+        <item name="android:statusBarColor">#F5F6FC</item>
+    </style>
+
+    <style name="fontPaddingStyle">
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="FontStyleRegular" parent="fontPaddingStyle">
+        <item name="android:fontFamily">@font/helvetica_regular</item>
+    </style>
+
+    <style name="FontStyleMedium" parent="fontPaddingStyle">
+        <item name="android:fontFamily">@font/helvetica_medium</item>
+    </style>
+
+    <style name="FontStyleBold" parent ="fontPaddingStyle">
+        <item name="android:fontFamily">@font/helvetica_bold</item>
+    </style>
+
+    <style name="FontStyleLight" parent="fontPaddingStyle">
+        <item name="android:fontFamily">@font/helvetica_light</item>
+    </style>
+</resources>

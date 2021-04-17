@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dc.easyadapter:easyadapter:2.0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b45e2eb88a5eb9fd59f39f3996eb63d6/jetified-easyadapter-2.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b45e2eb88a5eb9fd59f39f3996eb63d6/jetified-easyadapter-2.0.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b45e2eb88a5eb9fd59f39f3996eb63d6/jetified-easyadapter-2.0.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dc.easyadapter/easyadapter/2.0.5/24d213668d29b7574524f2d1ce3bce655d2696ff/easyadapter-2.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dc.easyadapter/easyadapter/2.0.5/3cf19cd6c7214d411f933b86f67aaf0f1c4698d/easyadapter-2.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
